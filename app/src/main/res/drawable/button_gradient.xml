@@ -1,0 +1,9 @@
+<shape xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:ignore="ExtraText">
+    <gradient
+        android:startColor="#FF717C"
+    android:endColor="#CB3E4A"
+    android:angle="90" />
+    <corners android:radius="8dp" />  <!-- Adjust the radius as needed for the curved edges -->
+</shape>

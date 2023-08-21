@@ -1,0 +1,34 @@
+<!-- fragment_second.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/grey"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Donor Information"
+        android:textSize="24sp"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:padding="16dp" />
+
+    <Button
+        android:id="@+id/donorButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Add Donor"
+        android:textColor="@color/white"
+        android:layout_gravity="center"
+        android:layout_marginTop="16dp"
+        android:padding="8dp" />
+
+    <ListView
+        android:id="@+id/donorListView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textColor="@color/white"
+        android:layout_marginTop="57dp" />
+
+</LinearLayout>

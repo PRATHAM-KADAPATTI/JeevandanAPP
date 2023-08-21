@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hospital_data">
+        <item>KLE Hospital</item>
+        <item>Civil Hospital</item>
+        <item>Lake-View Hospital</item>
+        <item>Venugram Hospital</item>
+    </string-array>
+
+    <string-array name="specialization_data">
+        <item>Cardiologist</item>
+        <item>Gastroenterologist</item>
+        <item>Pulmonologist</item>
+        <item>Nephrology</item>
+    </string-array>
+
+    <string-array name="gender_data">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="organ_data">
+        <item>Heart</item>
+        <item>Liver</item>
+        <item>Lungs</item>
+        <item>Kidney</item>
+    </string-array>
+
+    <string-array name="blood_group_data">
+        <item>A +ve</item>
+        <item>A -ve</item>
+        <item>B +ve</item>
+        <item>B -ve</item>
+        <item>O +ve</item>
+        <item>O -ve</item>
+        <item>AB +ve</item>
+        <item>AB -ve</item>
+    </string-array>
+</resources>
